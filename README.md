@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicasturgell
 - 👀 I’m interested in printmaking, book arts, and building things!
-- 🌱 I’m currently learning Javascript, CSS, and HTML
+- 🌱 I’m currently learning C# and Javascript
 - 💞️ I’m looking to collaborate on learning new skills
 - 😄 Pronouns: she/her
   
